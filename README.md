@@ -11,6 +11,11 @@ On March 7, 2012, active region **11429** produced an **X5.4 flare** (00:02 UTC)
 
 ![Flare Image](https://github.com/samresume/SpaceWeather_Multimodality/blob/main/DONKI.png)
 
+## Google Colab Notebook
+This repository includes a **Google Colab Notebook** to help process and analyze data related to this solar flare event.
+
+### 🔗 [Open in Google Colab](https://colab.research.google.com/drive/1uqD5df9b1_sD_mYvG3581aYn43Cc-ps1?usp=sharing)
+
 ## Repository Contents
 This repository includes the following data sources related to this flare event:
 
