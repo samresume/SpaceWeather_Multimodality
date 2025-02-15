@@ -29,12 +29,13 @@ This repository includes the following data sources related to this flare event:
 
 ### 2. **SDO/AIA and HMI Data**
 - **Wavelengths:** 94, 193, 304 Ångström.
-- **HMI Vector Magnetogram**: Download from [SDO Data](https://sdo.gsfc.nasa.gov/data/).
+- **HMI Vector Magnetogram**: Download from [SDO Data](https://sdo.gsfc.nasa.gov/data/aiahmi/).
 - Please provide at least one image for each wavelength that shows the flare clearly.
 
 ### 3. **SHARP Magnetic Field Data**
 - Relevant data includes **B_x, B_y, B_z**.
 - Query and download from:
+  - [Github Code](https://github.com/Luchomerenda3/SHARPs/blob/master/hedgehog.ipynb)
   - [SHARP Data Documentation](http://jsoc.stanford.edu/doc/data/hmi/sharp/sharp.htm)
   - [HMI Look Data](http://jsoc.stanford.edu/ajax/lookdata.html)
   - [HMI Record Set Help](http://jsoc.stanford.edu/ajax/RecordSetHelp.html)
@@ -42,6 +43,7 @@ This repository includes the following data sources related to this flare event:
 ### 4. **Solar Wind Data (ACE/WIND)**
 - **Still searching for time series data.**
 - Potential sources:
+  - [SolarSoft](https://sohoftp.nascom.nasa.gov/sdb/goes/ace/daily/)
   - [ACE Real-Time Solar Wind](https://www.swpc.noaa.gov/products/ace-real-time-solar-wind)
   - [ACE RTSW Data](https://izw1.caltech.edu/ACE/ASC/rtsw.html)
   - [NOAA SWPC](https://www.swpc.noaa.gov/)
