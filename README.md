@@ -41,9 +41,9 @@ This repository includes the following data sources related to this flare event:
   - [HMI Record Set Help](http://jsoc.stanford.edu/ajax/RecordSetHelp.html)
 
 ### 4. **Solar Wind Data (ACE/WIND)**
-- **Still searching for time series data.**
-- Potential sources:
-  - [SolarSoft](https://sohoftp.nascom.nasa.gov/sdb/goes/ace/daily/)
+- Solar Wind Data (ACE/WIND)
+For each day, four .txt files containing solar wind data can be easily downloaded from [SolarSoft](https://sohoftp.nascom.nasa.gov/sdb/goes/ace/daily/).
+Other websites providing real-time solar wind data:
   - [ACE Real-Time Solar Wind](https://www.swpc.noaa.gov/products/ace-real-time-solar-wind)
   - [ACE RTSW Data](https://izw1.caltech.edu/ACE/ASC/rtsw.html)
   - [NOAA SWPC](https://www.swpc.noaa.gov/)
